@@ -1,0 +1,11 @@
+userid,None,NonePattern,NoneScore,Sound,SoundPattern,SoundScore,Haptics,HapticsPattern,HapticsScore,Both,BothPattern,BothScore
+40644,2.3659,PatternB,1,1.4349,PatternD,7,1.3783,PatternC,6,1.1575,PatternA,8
+46184,2.3389,PatternC,10,3.1717,PatternD,10,2.8698,PatternB,10,2.0817,PatternA,10
+47931,2.4124,PatternC,1,2.1206,PatternB,8,1.9583,PatternA,8,1.8721,PatternD,9
+50568,2.3081,PatternC,1,2.3927,PatternB,9,1.9803,PatternD,8,2.2231,PatternA,6
+53092,1.6597,PatternB,1,1.82,PatternA,8,2.001,PatternD,10,1.6409,PatternC,10
+54965,1.4785,PatternA,1,1.7753,PatternC,8,1.9848,PatternD,9,1.8894,PatternB,9
+59864,2.1513,PatternB,3,2.4335,PatternD,6,2.0893,PatternC,9,2.0957,PatternA,9
+90524,1.693,PatternC,2,1.5454,PatternA,7,1.7114,PatternB,5,1.6429,PatternD,8
+91494,2.0531,PatternB,5,2.1319,PatternD,7,1.9017,PatternC,9,1.912,PatternA,8
+98241,1.4181,PatternA,3,1.7523,PatternB,6,1.4321,PatternC,7,1.6062,PatternD,8
