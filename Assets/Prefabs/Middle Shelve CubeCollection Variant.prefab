@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5001840605013212269
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 350396089291510212, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: instanceId
+      value: c77da576-d877-4643-b9bd-00f2882cf1be
+      objectReference: {fileID: 0}
+    - target: {fileID: 458284840076846202, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: instanceId
+      value: f662e75f-7d3a-46cf-bde8-70988dfc3df3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390649866391791060, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: instanceId
+      value: e47ed2a2-c275-46e9-92fc-0c9b828e349c
+      objectReference: {fileID: 0}
+    - target: {fileID: 2436111873604083453, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: instanceId
+      value: 43da5603-64f4-4140-b5d7-96fb3fba4049
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.763
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3225384166664319405, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3411627732450000940, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
+      propertyPath: m_Name
+      value: Middle Shelve CubeCollection Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6795fd17b9cd4ac46a38660ecc7f4f19, type: 3}
